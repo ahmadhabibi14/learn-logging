@@ -1,0 +1,6 @@
+time="2024-02-03T02:47:06+08:00" level=info msg="Hello logging"
+time="2024-02-03T02:47:06+08:00" level=warning msg="Hello logging"
+time="2024-02-03T02:47:06+08:00" level=error msg="Hello logging"
+time="2024-02-03T02:47:48+08:00" level=info msg="Hello logging"
+time="2024-02-03T02:47:48+08:00" level=warning msg="Hello logging"
+time="2024-02-03T02:47:48+08:00" level=error msg="Hello logging"
